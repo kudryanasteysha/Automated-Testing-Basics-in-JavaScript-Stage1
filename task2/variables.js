@@ -1,6 +1,6 @@
 let string = "Hello";
 let boolean = true;
-let number = 6;
+let number = 7;
 
 // Perform addition of various types 
 
